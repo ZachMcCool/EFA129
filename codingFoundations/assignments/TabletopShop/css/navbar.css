@@ -1,0 +1,14 @@
+.navbar {
+    position: fixed;
+    overflow: hidden;
+    width: 100%;
+    z-index: 1;
+    font-family: 'Architects Daughter', cursive;
+font-family: 'Sedgwick Ave', cursive;
+    text-transform: capitalize;
+}
+
+.navbar-brand{
+    font-size: 1.5rem;
+    text-decoration: underline;
+}

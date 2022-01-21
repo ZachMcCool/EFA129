@@ -1,0 +1,26 @@
+.cardsContainer {
+    height: 100vh;
+    background-color: darkslategray;
+    width: 100%;
+    height: fit-content;
+    margin: auto;
+    display: flex;
+    flex-wrap: wrap;
+    align-items: center;
+    justify-content: center;
+    gap: 2em;
+    align-items: baseline;
+}
+.card {
+    margin-top: 1rem;
+    margin-bottom: 1rem;
+    background-color: #212529;
+    color: white;
+}
+.card img {
+    height: 18rem;
+    margin: auto;
+    object-fit: contain;
+    margin-top: 1rem;
+
+}
